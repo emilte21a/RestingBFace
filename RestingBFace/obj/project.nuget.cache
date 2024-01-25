@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "rmcN4Hyy/gUm8NZqdtEnf1eN71DwTK8MDV7QC1VpTtHoq/RStn9iUXnmyMh6EjrGRoB2PiHgUehkBLzal/B7MQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emil.ulinjohansson\\RestingBFace\\RestingBFace\\RestingBFace.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emil.ulinjohansson\\.nuget\\packages\\raylib-cs\\6.0.0\\raylib-cs.6.0.0.nupkg.sha512",
+    "C:\\Users\\emil.ulinjohansson\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\emil.ulinjohansson\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\emil.ulinjohansson\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\emil.ulinjohansson\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
